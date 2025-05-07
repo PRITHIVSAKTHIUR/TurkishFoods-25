@@ -1,0 +1,8 @@
+
+id2label = {
+    "0": "asure", "1": "baklava", "2": "biber_dolmasi", "3": "borek", "4": "cig_kofte",
+    "5": "enginar", "6": "et_sote", "7": "gozleme", "8": "hamsi", "9": "hunkar_begendi",
+    "10": "icli_kofte", "11": "ispanak", "12": "izmir_kofte", "13": "karniyarik", "14": "kebap",
+    "15": "kisir", "16": "kuru_fasulye", "17": "lahmacun", "18": "lokum", "19": "manti",
+    "20": "mucver", "21": "pirinc_pilavi", "22": "simit", "23": "taze_fasulye", "24": "yaprak_sarma"
+}
